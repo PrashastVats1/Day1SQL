@@ -1,6 +1,5 @@
 --if database present dropping it
 use master
-if exists(select name from sys.databases where name = N'ExerciseDb')
 drop database ExerciseDb
 --creating database
 create database ExerciseDb
