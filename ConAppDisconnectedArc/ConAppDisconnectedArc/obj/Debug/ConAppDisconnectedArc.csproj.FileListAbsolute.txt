@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Phase 2\Day6\ConAppDisconnectedArc\ConAppDisconnectedArc\bin\Debug\ConAppDisconnectedArc.exe.config
+D:\Mphasis\Live Session\Phase 2\Day6\ConAppDisconnectedArc\ConAppDisconnectedArc\bin\Debug\ConAppDisconnectedArc.exe
+D:\Mphasis\Live Session\Phase 2\Day6\ConAppDisconnectedArc\ConAppDisconnectedArc\bin\Debug\ConAppDisconnectedArc.pdb
+D:\Mphasis\Live Session\Phase 2\Day6\ConAppDisconnectedArc\ConAppDisconnectedArc\obj\Debug\ConAppDisconnectedArc.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Phase 2\Day6\ConAppDisconnectedArc\ConAppDisconnectedArc\obj\Debug\ConAppDisconnectedArc.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Phase 2\Day6\ConAppDisconnectedArc\ConAppDisconnectedArc\obj\Debug\ConAppDisconnectedArc.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Phase 2\Day6\ConAppDisconnectedArc\ConAppDisconnectedArc\obj\Debug\ConAppDisconnectedArc.exe
+D:\Mphasis\Live Session\Phase 2\Day6\ConAppDisconnectedArc\ConAppDisconnectedArc\obj\Debug\ConAppDisconnectedArc.pdb
