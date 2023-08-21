@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Phase 2\Day7\Assignment7UsingDataSetsForCRUD\Assignment7UsingDataSetsForCRUD\bin\Debug\Assignment7UsingDataSetsForCRUD.exe.config
+D:\Mphasis\Live Session\Phase 2\Day7\Assignment7UsingDataSetsForCRUD\Assignment7UsingDataSetsForCRUD\bin\Debug\Assignment7UsingDataSetsForCRUD.exe
+D:\Mphasis\Live Session\Phase 2\Day7\Assignment7UsingDataSetsForCRUD\Assignment7UsingDataSetsForCRUD\bin\Debug\Assignment7UsingDataSetsForCRUD.pdb
+D:\Mphasis\Live Session\Phase 2\Day7\Assignment7UsingDataSetsForCRUD\Assignment7UsingDataSetsForCRUD\obj\Debug\Assignment7UsingDataSetsForCRUD.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Phase 2\Day7\Assignment7UsingDataSetsForCRUD\Assignment7UsingDataSetsForCRUD\obj\Debug\Assignment7UsingDataSetsForCRUD.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Phase 2\Day7\Assignment7UsingDataSetsForCRUD\Assignment7UsingDataSetsForCRUD\obj\Debug\Assignment7UsingDataSetsForCRUD.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Phase 2\Day7\Assignment7UsingDataSetsForCRUD\Assignment7UsingDataSetsForCRUD\obj\Debug\Assignment7UsingDataSetsForCRUD.exe
+D:\Mphasis\Live Session\Phase 2\Day7\Assignment7UsingDataSetsForCRUD\Assignment7UsingDataSetsForCRUD\obj\Debug\Assignment7UsingDataSetsForCRUD.pdb
