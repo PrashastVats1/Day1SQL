@@ -137,39 +137,45 @@ namespace Assignment7UsingDataSetsForCRUD
         static void Main(string[] args)
         {
             DataSet libraryDataSet = RetrieveBooks();
-
             while (true)
             {
-                Console.WriteLine("Library Management System");
-                Console.WriteLine("1. Display Book Inventory");
-                Console.WriteLine("2. Add New Book");
-                Console.WriteLine("3. Update Book Quantity");
-                Console.WriteLine("4. Delete Book Record");
-                Console.WriteLine("5. Exit");
-                Console.Write("Enter your choice: ");
-                int choice = int.Parse(Console.ReadLine());
-
-                switch (choice)
+                try
                 {
-                    case 1:
-                        DisplayBookInventory(libraryDataSet);
-                        break;
-                    case 2:
-                        AddNewBook(libraryDataSet);
-                        break;
-                    case 3:
-                        UpdateBookQuantity(libraryDataSet);
-                        break;
-                    case 4:
-                        DeleteBook(libraryDataSet);
-                        break;
-                    case 5:
-                        ApplyChangesToDatabase(libraryDataSet);
-                        Console.WriteLine("Exiting...");
-                        return;
-                    default:
-                        Console.WriteLine("Invalid choice.");
-                        break;
+                    Console.WriteLine("Library Management System");
+                    Console.WriteLine("1. Display Book Inventory");
+                    Console.WriteLine("2. Add New Book");
+                    Console.WriteLine("3. Update Book Quantity");
+                    Console.WriteLine("4. Delete Book Record");
+                    Console.WriteLine("5. Exit");
+                    Console.Write("Enter your choice: ");
+                    int choice = int.Parse(Console.ReadLine());
+
+                    switch (choice)
+                    {
+                        case 1:
+                            DisplayBookInventory(libraryDataSet);
+                            break;
+                        case 2:
+                            AddNewBook(libraryDataSet);
+                            break;
+                        case 3:
+                            UpdateBookQuantity(libraryDataSet);
+                            break;
+                        case 4:
+                            DeleteBook(libraryDataSet);
+                            break;
+                        case 5:
+                            ApplyChangesToDatabase(libraryDataSet);
+                            Console.WriteLine("Exiting...");
+                            return;
+                        default:
+                            Console.WriteLine("Invalid choice.");
+                            break;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Error!!" + ex.Message);
                 }
             }
         }
