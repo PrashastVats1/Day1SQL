@@ -1,0 +1,13 @@
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\bin\Debug\ConsoleApp1ConAppEFExample.exe.config
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\bin\Debug\ConsoleApp1ConAppEFExample.exe
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\bin\Debug\ConsoleApp1ConAppEFExample.pdb
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\bin\Debug\EntityFramework.dll
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\bin\Debug\EntityFramework.xml
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\obj\Debug\ConsoleApp1ConAppEFExample.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\obj\Debug\ConsoleApp1ConAppEFExample.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\obj\Debug\ConsoleApp1ConAppEFExample.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\obj\Debug\ConsoleApp1ConAppEFExample.csproj.CopyComplete
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\obj\Debug\ConsoleApp1ConAppEFExample.exe
+D:\Mphasis\Live Session\Phase 2\Day8\ConsoleApp1ConAppEFExample\ConsoleApp1ConAppEFExample\obj\Debug\ConsoleApp1ConAppEFExample.pdb

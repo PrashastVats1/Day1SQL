@@ -1,0 +1,13 @@
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\bin\Debug\EFUsingCRUDAssignment8.exe.config
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\bin\Debug\EFUsingCRUDAssignment8.exe
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\bin\Debug\EFUsingCRUDAssignment8.pdb
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\bin\Debug\EntityFramework.dll
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\bin\Debug\EntityFramework.xml
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\obj\Debug\EFUsingCRUDAssignment8.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\obj\Debug\EFUsingCRUDAssignment8.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\obj\Debug\EFUsingCRUDAssignment8.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\obj\Debug\EFUsingCRUDAssignment8.csproj.CopyComplete
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\obj\Debug\EFUsingCRUDAssignment8.exe
+D:\Mphasis\Live Session\Phase 2\Day8\EFUsingCRUDAssignment8\EFUsingCRUDAssignment8\obj\Debug\EFUsingCRUDAssignment8.pdb

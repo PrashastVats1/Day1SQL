@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Phase 2\Day8\ConAppStoredProcEx\ConAppStoredProcEx\bin\Debug\ConAppStoredProcEx.exe.config
+D:\Mphasis\Live Session\Phase 2\Day8\ConAppStoredProcEx\ConAppStoredProcEx\bin\Debug\ConAppStoredProcEx.exe
+D:\Mphasis\Live Session\Phase 2\Day8\ConAppStoredProcEx\ConAppStoredProcEx\bin\Debug\ConAppStoredProcEx.pdb
+D:\Mphasis\Live Session\Phase 2\Day8\ConAppStoredProcEx\ConAppStoredProcEx\obj\Debug\ConAppStoredProcEx.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Phase 2\Day8\ConAppStoredProcEx\ConAppStoredProcEx\obj\Debug\ConAppStoredProcEx.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Phase 2\Day8\ConAppStoredProcEx\ConAppStoredProcEx\obj\Debug\ConAppStoredProcEx.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Phase 2\Day8\ConAppStoredProcEx\ConAppStoredProcEx\obj\Debug\ConAppStoredProcEx.exe
+D:\Mphasis\Live Session\Phase 2\Day8\ConAppStoredProcEx\ConAppStoredProcEx\obj\Debug\ConAppStoredProcEx.pdb
