@@ -38,12 +38,9 @@ create proc usp_PlaceOrder
 @CID int,
 @TA float
 as
-begin
-insert into Orders(CustomerId, OrderDate, TotalAmount)
-values (@CID, getdate(), @TA)
-update Customers
-set TotalSpending = isnull(TotalSpending,0)+@TA
-where CustomerId = @CID
-end
+insert into Orders (CustomerId,OrderDate,TotalAmount) values
+(@CID,getdate(),@TA)
+update Orders set TotalAmount=o.sumtotal from(select Sum(TotalAmount) as sumtotal from Orders where CustomerId=@CID) o where CustomerId=@CID
 
-exec usp_PlaceOrder @CID = 1, @TA = 5000.78;
+drop proc usp_PlaceOrder
+exec usp_PlaceOrder @CID = 1, @TA = 5000.78
