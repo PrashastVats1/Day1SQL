@@ -1,0 +1,7 @@
+D:\Mphasis\Live Session\Phase 2\Day9\ConAppStoredProcAssignment9\ConAppStoredProcAssignment9\bin\Debug\ConAppStoredProcAssignment9.exe.config
+D:\Mphasis\Live Session\Phase 2\Day9\ConAppStoredProcAssignment9\ConAppStoredProcAssignment9\bin\Debug\ConAppStoredProcAssignment9.exe
+D:\Mphasis\Live Session\Phase 2\Day9\ConAppStoredProcAssignment9\ConAppStoredProcAssignment9\bin\Debug\ConAppStoredProcAssignment9.pdb
+D:\Mphasis\Live Session\Phase 2\Day9\ConAppStoredProcAssignment9\ConAppStoredProcAssignment9\obj\Debug\ConAppStoredProcAssignment9.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Phase 2\Day9\ConAppStoredProcAssignment9\ConAppStoredProcAssignment9\obj\Debug\ConAppStoredProcAssignment9.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Phase 2\Day9\ConAppStoredProcAssignment9\ConAppStoredProcAssignment9\obj\Debug\ConAppStoredProcAssignment9.exe
+D:\Mphasis\Live Session\Phase 2\Day9\ConAppStoredProcAssignment9\ConAppStoredProcAssignment9\obj\Debug\ConAppStoredProcAssignment9.pdb
