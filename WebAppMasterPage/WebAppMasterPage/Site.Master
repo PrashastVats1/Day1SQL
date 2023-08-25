@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebAppMasterPage.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div><h2 class="bg-primary text-white text-center">Our Simple Website</h2></div>
+        <nav class="navbar navbar-expand-lg bg-dark">
+        <div class="container-fluid">
+            <%--<a class="navbar-brand" href="#">Navbar</a>--%>
+            <asp:HyperLink ID="HyperLinkOne" runat="server" NavigateUrl="~/Home.aspx" CssClass="nav-link text-white">
+            SimpleWeb</asp:HyperLink>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+             <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+            <%--<a class="navbar-brand" href="#">Navbar</a>--%>
+            <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Home.aspx" CssClass="nav-link text-white">
+            Home</asp:HyperLink></li>
+          <li>
+          <%--<a class="nav-link active" aria-current="page" href="#">Home</a>--%>
+            <asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/GridView.aspx" CssClass="nav-link text-white">
+    GridView</asp:HyperLink>
+        </li>
+        <li>
+      <%--<a class="nav-link active" aria-current="page" href="#">Home</a>--%>
+        <asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="~/Grid2.aspx" CssClass="nav-link text-white">
+GridTwo</asp:HyperLink>
+    </li>
+        <li class="nav-item">
+          <%--<a class="nav-link" href="#">Link</a>--%>
+            <asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/CustomValidator.aspx" CssClass="nav-link text-white">
+            CustomValidator</asp:HyperLink>
+        </li>
+        <li class="nav-item dropdown">
+          <%--<a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>--%>
+            <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/About.aspx" CssClass="nav-link text-white">
+            About</asp:HyperLink>
+        </li>
+        <li class="nav-item">
+          <%--<a class="nav-link disabled" aria-disabled="true">Disabled</a>--%>
+            <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Contact.aspx" CssClass="nav-link text-white">
+    Contact</asp:HyperLink>
+        </li>
+        <li>
+      <%--<a class="nav-link active" aria-current="page" href="#">Home</a>--%>
+        <asp:HyperLink ID="HyperLink7" runat="server" NavigateUrl="~/Register.aspx" CssClass="nav-link text-white">
+Register</asp:HyperLink>
+    </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div><footer class="bg-dark text-white">All Rights Reserved to Us &reg;</footer></div>
+    </form>
+</body>
+</html>

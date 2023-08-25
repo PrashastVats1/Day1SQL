@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Web.UI.WebControls;
+
+namespace WebAppAssignment11
+{
+    public partial class Article : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
