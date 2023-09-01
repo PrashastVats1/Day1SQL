@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="PlayerMgmtDbConnectionString-Web.config Connection String" description="PlayerMgmtDbConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=LAPTOP-H3OMMTNN\SQLEXPRESS;Initial Catalog=PlayerMgmtDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Mphasis\\Live\ Session\\Phase\ 2\\Day15\\ErrorHandlingAssignment\\ErrorHandlingAssignment\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='PlayerMgmtDbConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

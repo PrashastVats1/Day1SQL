@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="OurSite.master.cs" Inherits="WebAppSecureSM.OurSite" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="OurStyle.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="topPanel">
+            <h1>Security in ASP.NET</h1>
+            <table>
+                <tr>
+                    <td><asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Home.aspx">Home</asp:HyperLink></td>
+                    <td><asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/About.aspx">About</asp:HyperLink></td>
+                    <td><asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Contact.aspx">Contact</asp:HyperLink></td>
+                    <td><asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/Login.aspx">Login</asp:HyperLink></td>
+                    <td><asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/Secure/Secure.aspx">Secure</asp:HyperLink></td>
+                </tr>
+                <tr>
+                    <td colspan="5">
+                        <asp:LoginView ID="LoginView1" runat="server">
+                            <AnonymousTemplate>
+                                Welcome Guest
+                            </AnonymousTemplate>
+                            <LoggedInTemplate>
+                                Hi!!!! <asp:LoginName ID="LoginName1" runat="server" />
+                            </LoggedInTemplate>
+                        </asp:LoginView>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="mainPanel">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
